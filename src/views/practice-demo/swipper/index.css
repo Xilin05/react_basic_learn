@@ -1,0 +1,31 @@
+.wrapper{
+    position: relative;
+    width:600px;
+    height:240px;
+    border:1px solid red;
+    
+}
+.wrapper span{
+    position: absolute;
+    top:90px;
+    
+    height:60px;
+    width:24px;
+    background-color:forestgreen;
+    text-align: center;
+    line-height: 60px;
+    cursor: pointer;
+    user-select: none;
+    color:white;
+    font-weight: 700;
+}
+.wrapper .right {
+    right: 0;
+}
+.wrapper img{
+    position:absolute;
+    top:0;
+    left:0;
+    height:240px;
+    width:600px;
+}
