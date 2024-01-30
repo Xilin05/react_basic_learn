@@ -20,17 +20,17 @@ import { BrowserRouter } from 'react-router-dom'
 function App() {
   return (
     <div>
-      {/* <DynamicStyle /> */}
-      {/* <hr /> */}
-      {/* <Communication /> */}
-      {/* <StateCom /> */}
-      {/* <RefsCom /> */}
-      {/* <InputComponent /> */}
-      {/* <PropsCheck /> */}
+      <DynamicStyle />
+      <hr />
+      <Communication />
+      <StateCom />
+      <RefsCom />
+      <InputComponent />
+      <PropsCheck />
 
-      {/* <LifeCycle /> */}
-      {/* <Practice /> */}
-      {/* <Hooks /> */}
+      <LifeCycle />
+      <Practice />
+      <Hooks />
       <Router />
     </div>
   )

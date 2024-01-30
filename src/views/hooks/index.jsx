@@ -142,7 +142,7 @@ export default function Index() {
 
       <hr />
 
-      <Disscount />
+      {/* <Disscount /> */}
     </>
   )
 }
